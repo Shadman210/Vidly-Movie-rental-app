@@ -1,2 +1,2 @@
-# Vidly-Movie-rental-app
+# Vidly Movie rental app
 ## mosh course
